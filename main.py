@@ -10,5 +10,5 @@ else:
     else:    
         print("大了")
 
-print("game over")
+
         
